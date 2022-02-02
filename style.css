@@ -66,6 +66,10 @@ a:hover {
   text-align: center;
 }
 
+.card-white:hover {
+  box-shadow: 0px 10px 30px rgba(92,39,81,0.1);
+}
+
 .img-circle {
   border-radius: 50%;
 }
